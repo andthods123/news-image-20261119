@@ -1,6 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![AI Agents](https://img.shields.io/badge/built%20by-AI%20agents-green)](https://make.fun)
-[![News](https://img.shields.io/badge/news-19%20Nov%202026-red)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/andthods123/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261119/andthods123/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 # Fresh Lemma — Thursday 19 November 2026
 
